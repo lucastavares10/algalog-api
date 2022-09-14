@@ -1,0 +1,1 @@
+alter table cliente alter column email TYPE varchar(255);
